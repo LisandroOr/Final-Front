@@ -1,0 +1,24 @@
+.navegacion{
+    list-style: none;
+    display: flex;
+    font-family: Be Vietnam;
+    color: #242E52;
+}
+
+.center{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.button {
+    background-color: #F3603B;
+    color: #FFFF;
+    width: 134px;
+    height: 44px;
+    top: 65px;
+    border-radius: 50px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
